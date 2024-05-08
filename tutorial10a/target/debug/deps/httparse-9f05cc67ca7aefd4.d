@@ -1,0 +1,11 @@
+/Users/clayton/Desktop/UI/AP/mod10/tutorial10a/tutorial10a/target/debug/deps/libhttparse-9f05cc67ca7aefd4.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/clayton/Desktop/UI/AP/mod10/tutorial10a/tutorial10a/target/debug/deps/libhttparse-9f05cc67ca7aefd4.rlib: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/clayton/Desktop/UI/AP/mod10/tutorial10a/tutorial10a/target/debug/deps/httparse-9f05cc67ca7aefd4.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs:
